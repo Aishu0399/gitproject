@@ -10,7 +10,7 @@ class SumNumbersTest {
 
 	@Test 
 	void testSum() {
-		assertEquals(5, obj.sum(5,  3));
+		assertEquals(5, obj.sum(2,  3));
 		
 	}
 	@Test
